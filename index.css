@@ -1,0 +1,60 @@
+body {
+background-image: url('12.jpg');
+  
+}
+.coloumns
+{
+color:aliceblue;
+
+    
+    
+}
+.coloumn_1{
+    font-size: 50px;
+    font: bold;
+}
+.h1{
+    font-size: 25px;
+    font: bold not
+}
+.coloumn_2
+{
+    background-color: rgba(0, 0, 0, 1); /* Slightly transparent dark background */
+      color: #fff; /* Light text color for better readability on dark background */
+      border-radius: 15px; 
+      width: 275px;
+      height:43px;
+      font-size: 30px;
+      font: bold;
+      text-align: center;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price_card {
+    flex: 1;
+    background-color: rgba(0, 0, 0, 0.9); /* Adjust the alpha value for transparency */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font:bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    background-color:aqua;
+    font-size: 25px;
+    font:bold;
+    border-radius: 20px;
+}
+.additional-points {
+    display: none;
+    list-style-type: disc;
+    margin: 0 auto;
+    text-align: left;
+}
+
